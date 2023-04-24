@@ -20,7 +20,7 @@ result 2 : Mostly more than two of bike station share the area around 1000m radi
 result 3 : I choose three POI Restaurants, bar and Art&Entertainment.Many of POI has more than one bike station in radius of 1000m.
 result 4 : Number of available bikes is between 2 to 15 for most POI areas.
 result 5 : POI counts and rating does impact the number of bikes.
-result 6 : Increase in POI count and rating has positive impact on number of bikes.
+result 6 : Increase in rating has positive impact on number of bikes.
 
 ## Challenges 
 1. Requesting data to APIs with perticular params.
